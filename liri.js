@@ -90,6 +90,7 @@ else if (command === "do-what-it-says") {
     var dataArr = data.split(",");
     command = dataArr[0];
     searchTerm = dataArr[1];
+    // console.log(dataArr);
     if (command === "concert-this") {
       concertThis();
     }
