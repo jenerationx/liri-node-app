@@ -52,4 +52,4 @@ In terminal (or bash), type `node liri do-what-it-says` and the LIRI will perfor
 
 We can also change the contents of the text file and LIRI will perform whichever command the file says! 
 
-![Do-What with movie-this](https://github.com/jenerationx/liri-node-app/blob/master/images/liri-spotify.png)
+![Do-What with movie-this](https://github.com/jenerationx/liri-node-app/blob/master/images/doWhat.png)
