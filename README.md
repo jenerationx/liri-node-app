@@ -19,7 +19,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 LIRI will search the Spotify API for songs with the `spotify-this` command
 
 In terminal (or bash), type `node liri spotify-this` and the name of the song you want information about.  LIRI will return 10 results based on your search.
-## Live Demo:
+## Live Demo (click image for video demonstration):
 
 [![Video of spotify-this](http://img.youtube.com/vi/pb-NU9SN7Q4/0.jpg)](https://www.youtube.com/watch?v=pb-NU9SN7Q4 "Spotify this")
 
@@ -28,7 +28,7 @@ In terminal (or bash), type `node liri spotify-this` and the name of the song yo
 LIRI will search the Bands In Town API for upcoming concerts with the `concert-this` command
 
 In terminal (or bash), type `node liri concert-this` and the name of the Artist you want information about.  LIRI will return up to 15 results based on your search.
-## Live Demo:
+## Live Demo (click image for video demonstration):
 
 [![Video of concert-this](http://img.youtube.com/vi/5r5IN0v8IiA/0.jpg)](https://www.youtube.com/watch?v=5r5IN0v8IiA "Concert this")
 
@@ -37,7 +37,7 @@ In terminal (or bash), type `node liri concert-this` and the name of the Artist 
 LIRI will search the OMDB API for movies with the `movie-this` command
 
 In terminal (or bash), type `node liri movie-this` and the name of the Artist you want information about.  LIRI will return one result based on your search.
-## Live Demo:
+## Live Demo (click image for video demonstration):
 
 [![Video of concert-this](http://img.youtube.com/vi/C4YU5VEt7J4/0.jpg)](https://www.youtube.com/watch?v=C4YU5VEt7J4 "Movie this")
 
@@ -46,7 +46,7 @@ In terminal (or bash), type `node liri movie-this` and the name of the Artist yo
 LIRI will read a text file and do what it says with the `do-what-it-says` command
 
 In terminal (or bash), type `node liri do-what-it-says` and the LIRI will perform the command in the random.txt file.
-## Live Demo:
+## Live Demo (click image for video demonstration):
 
 [![Video of concert-this](http://img.youtube.com/vi/qh1Mh_n2eJI/0.jpg)](https://www.youtube.com/watch?v=qh1Mh_n2eJI "Do What It Says")
 
