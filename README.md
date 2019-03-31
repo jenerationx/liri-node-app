@@ -21,7 +21,7 @@ LIRI will search the Spotify API for songs with the `spotify-this` command
 In terminal (or bash), type `node liri spotify-this` and the name of the song you want information about.  LIRI will return 10 results based on your search.
 ## Live Demo:
 
-[![Video of spotify-this](http://img.youtube.com/vi/pb-NU9SN7Q4 /0.jpg)](https://www.youtube.com/watch?v=pb-NU9SN7Q4 "Spotify this")
+[![Video of spotify-this](http://img.youtube.com/vi/pb-NU9SN7Q4/0.jpg)](https://www.youtube.com/watch?v=pb-NU9SN7Q4 "Spotify this")
 
 ## Concert This
 
