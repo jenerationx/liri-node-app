@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+In this project, I made LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
 
 ### What LIRI Does
 
@@ -19,6 +19,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 LIRI will search the Spotify API for songs with the `spotify-this` command
 
 In terminal (or bash), type `node liri spotify-this` and the name of the song you want information about.  LIRI will return 10 results based on your search.
+
 ## Live Demo (click image for video demonstration):
 
 [![Video of spotify-this](http://img.youtube.com/vi/pb-NU9SN7Q4/0.jpg)](https://www.youtube.com/watch?v=pb-NU9SN7Q4 "Spotify this")
